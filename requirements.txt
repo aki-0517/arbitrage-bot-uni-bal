@@ -1,0 +1,20 @@
+# APIライブラリ
+ccxt
+
+# データ操作・分析
+numpy
+pandas
+
+# グラフ作成
+matplotlib
+
+# 環境変数管理
+python-dotenv
+
+# 非同期処理（必要に応じて）
+asyncio
+
+# ログの整形と管理（オプション）
+loguru
+
+web3
